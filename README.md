@@ -30,9 +30,5 @@ To run this script:
 ```
 python check_rbl.py
 ```
-  
- <img src="[http://url/image.png](https://github.com/fagner-fmlo/rbl_analyser/blob/adbddcffa04ea9049a0d4b458aef445ebae9d4c9/check_rbl.jpg)" style=" width:60px ; height:60px ">
- 
- <div style="width:60px ; height:60px">
-![Employee data]([/repository/assets/employee.png?](https://github.com/fagner-fmlo/rbl_analyser/blob/adbddcffa04ea9049a0d4b458aef445ebae9d4c9/check_rbl.jpg)
-<div>
+
+![Alt text](https://github.com/fagner-fmlo/rbl_analyser/blob/adbddcffa04ea9049a0d4b458aef445ebae9d4c9/check_rbl.jpg)
