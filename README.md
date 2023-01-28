@@ -31,4 +31,4 @@ To run this script:
 python check_rbl.py
 ```
 
-![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1FxEmIpKtI7_4zebWPGFP84k4v5pWSkva/view?usp=sharing))
+![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](http://url/to/img.png](https://drive.google.com/file/d/1FxEmIpKtI7_4zebWPGFP84k4v5pWSkva/view?usp=sharing))
