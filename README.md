@@ -25,9 +25,7 @@ In order to use the script you will need an API key which is used for query in r
 
 With the token in hand, you need to create an .env file, follow the instructions at: https://es.stackoverflow.com/questions/529724/como-ocultar-tokens-en-un-script-python-en-github
 
-### Usage
-
-To use type:
+To run this script:
 
 ```
 python check_rbl.py
