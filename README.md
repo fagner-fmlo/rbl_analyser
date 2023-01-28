@@ -32,5 +32,5 @@ python check_rbl.py
 ```
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/fagner-fmlo/rbl_analyser/blob/adbddcffa04ea9049a0d4b458aef445ebae9d4c9/check_rbl.jpg">
+  <img width="500" height="500" src="https://github.com/fagner-fmlo/rbl_analyser/blob/adbddcffa04ea9049a0d4b458aef445ebae9d4c9/check_rbl.jpg">
 </p>
