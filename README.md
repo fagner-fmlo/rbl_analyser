@@ -31,5 +31,6 @@ To run this script:
 python check_rbl.py
 ```
 
-![My Image](https://github.com/fagner-fmlo/rbl_analyser/blob/adbddcffa04ea9049a0d4b458aef445ebae9d4c9/check_rbl.jpg)
-style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img
+  src="[/path/to/img.jpg](https://github.com/fagner-fmlo/rbl_analyser/blob/adbddcffa04ea9049a0d4b458aef445ebae9d4c9/check_rbl.jpg)"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
