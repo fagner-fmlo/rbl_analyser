@@ -31,4 +31,4 @@ To run this script:
 python check_rbl.py
 ```
 
-![My Remote Image](https://drive.google.com/file/d/1FxEmIpKtI7_4zebWPGFP84k4v5pWSkva/view?usp=sharing)
+![My Image](https://github.com/fagner-fmlo/rbl_analyser/blob/adbddcffa04ea9049a0d4b458aef445ebae9d4c9/check_rbl.jpg)
